@@ -1,12 +1,12 @@
 # Live - Buffer Overflow, uma introdução ao assunto
 
 ## Tabela ASCII
-| Char  Dec  Oct  Hex   Linux
-| (nl)   10 0012  x0a   \n
-| (cr)   13 0015  x0d   \r
-| A      65 0101  x41
-| B      66 0102  x42
-| C      67 0103  x43
+| *Char  Dec  Oct  Hex   Linux*
+| *(nl)   10 0012  x0a   \n*
+| *(cr)   13 0015  x0d   \r*
+| *A      65 0101  x41*
+| *B      66 0102  x42*
+| *C      67 0103  x43*
 
 ## Comandos utilizados
 
