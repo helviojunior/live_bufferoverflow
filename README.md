@@ -1,5 +1,12 @@
 # Live - Buffer Overflow, uma introdução ao assunto
 
+## Link do Youtube
+
+Para quem perdeu a Live, segue o link do vídeo gravado do YouTube
+```
+https://youtu.be/oGZ01rvbfwE
+```
+
 ## Tabela ASCII
 ```
 Char  Dec  Oct  Hex   Linux
